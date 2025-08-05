@@ -1,2 +1,4 @@
-# churn_prediction_model
-A data analytics project that analyses customer behaviour and performs customer churn prediction and segmentation using Machine Learning.
+# Customer Churn Prediction & Segmentation Project
+This project applies data analytics and machine learning to predict customer churn and segment users for strategic business insight
+
+
