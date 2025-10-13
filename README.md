@@ -32,3 +32,11 @@ See main folders:
 ## ✅ Status
 ✅ Complete — Model trained and evaluated, insights documented, visuals generated.
 
+
+## ✨ Contact
+
+**Created by:** Leigh-Anne Nonkanyiso Ndimande  
+**LinkedIn:** https://linkedin.com/in/nonkanyiso-ndimande
+**GitHub Portfolio:** https://github.com/LeighAnne17
+**Email:** leighndimande17@icloud.com / bandiswa27@gmail.com
+
