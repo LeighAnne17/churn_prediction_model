@@ -1,4 +1,4 @@
-# Customer Churn Prediction & Segmentation Project# 🧠 Customer Churn Prediction & Segmentation Project
+# 🧠 Customer Churn Prediction & Segmentation Project
 This project applies data analytics and machine learning to predict customer churn and segment users for strategic business insight.
 
 ## 🔍 Problem Statement
@@ -20,7 +20,7 @@ Companies lose revenue when customers churn unexpectedly. The goal is to predict
 ## 📈 Model Performance
 - ROC AUC Score: **0.64** (baseline)
 - ROC Curve saved as: `roc_curve.png`
-- Feature Importance graph: `feature_importance.png`
+- Tenure graph: `tenure.png`
 
 ## 🧩 Folder Structure
 See main folders:
