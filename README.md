@@ -6,7 +6,7 @@ This project applies **data analytics**, **machine learning** and **customer seg
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 * Clean and prepare customer data for analysis
 * Explore factors influencing customer churn
@@ -36,7 +36,7 @@ The project uses a telecommunications customer dataset containing customer demog
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 ### Programming
 * Python
 
@@ -101,38 +101,60 @@ The analysis includes:
 * Customer segmentation visualization
 
 These visualizations helped identify important trends before building the predictive model.
+
 ### Customer Churn Distribution
 This chart shows the overall distribution of customers who stayed versus those who churned
 
 <img width="640" height="480" alt="churn_distribution" src="https://github.com/user-attachments/assets/109d349b-fafc-4556-9cfe-fc98b45d2615" />
 
+---
 
 ### Churn by Contract Type
 Customers on month-to-month contracts exhibited noticeably higher churn rates compared to customers with longer-term contracts
 
 <img width="640" height="480" alt="contract type" src="https://github.com/user-attachments/assets/e815a601-77ba-4731-93a9-2d4a461b6f37" />
 
+---
+
 ### Churn by Customer Tenure
 Customers with shorter tenures were significantly more likely to leave, while long-term customers showed greater loyalty
 
 <img width="640" height="480" alt="tenure" src="https://github.com/user-attachments/assets/a191f287-fa02-4ce3-923a-2587360dc11f" />
 
+---
 
 ### Monthly Charges Distribution
 Monthly charges were compared across churned and retained customers to determine whether pricing influenced customer retention
 
 <img width="640" height="480" alt="monthly_charges" src="https://github.com/user-attachments/assets/c8a72c9e-8542-4d5d-a95a-728a9354d9ac" />
 
-### Correlation Heatmap
+---
+
+## Correlation Heatmap
 The correlation matrix highlights relationships between the numerical variables used throughout the project
 
 <img width="640" height="480" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/5ccd099d-1385-45c9-a70f-6713f455d95d" />
 
+---
+
+## Customer Segmentation
+K-Means clustering was applied using customer tenure, monthly charges and total charges to identify groups of customers with similar behaviour.
+
+### Elbow Method
+The Elbow Method was used to determine the optimal number of clusters.
+
+<img width="800" height="500" alt="elbow_plot" src="https://github.com/user-attachments/assets/acc8d6b3-23aa-48f6-96a8-99dd02b42475" />
+
+
+---
 
 ### Customer Segmentation
 Customers were grouped into clusters based on spending and subscription characteristics
 
+<img width="1000" height="600" alt="customer_segmentation" src="https://github.com/user-attachments/assets/1a33c372-0b72-4cb4-9d7b-30acc897d308" />
 
+
+---
 
 ---
 
